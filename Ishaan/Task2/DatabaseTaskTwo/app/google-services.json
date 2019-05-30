@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "929107886880",
+    "firebase_url": "https://databasetasktwo.firebaseio.com",
+    "project_id": "databasetasktwo",
+    "storage_bucket": "databasetasktwo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929107886880:android:0c0e5317f668fd15",
+        "android_client_info": {
+          "package_name": "com.e.databasetasktwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929107886880-rfgvrfaso5rlkpvnnnj1q1ad89clo4gp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.databasetasktwo",
+            "certificate_hash": "f3a628039be27351be6b55a803dad03c2042ac41"
+          }
+        },
+        {
+          "client_id": "929107886880-cu67ulqda65p25ph9m9n8th67f0ijsoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgXQEtEeUavWfCv4_cuidEYlgwdNIrNks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929107886880-cu67ulqda65p25ph9m9n8th67f0ijsoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
